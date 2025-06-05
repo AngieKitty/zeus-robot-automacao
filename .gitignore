@@ -1,0 +1,17 @@
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+*.tmp
+*.bak
+*~
+.env
+/logs/
+/browser/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
